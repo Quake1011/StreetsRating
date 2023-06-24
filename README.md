@@ -3,8 +3,7 @@
 
 ## Description
 The plugin is more suitable for servers with a local audience located within the same region. The plugin collects voluntarily specified streets by players into a common database, which determines the rating of the most playing streets in a city or village, or region. You can also edit it for yourself and specify, for example, countries or regions of countries(but there is already a GeoIP extension for this)
-<center><img src="https://github.com/Quake1011/StreetsRating/assets/58555031/46a610a6-34e1-479a-8fb2-ab6647bdc74e" width="250vw"></center>
-<center><img src="https://github.com/Quake1011/StreetsRating/assets/58555031/db9ef3c4-e95a-4eb1-9c73-9050664db145" width="250vw"></center>
+<pre><center><img src="https://github.com/Quake1011/StreetsRating/assets/58555031/46a610a6-34e1-479a-8fb2-ab6647bdc74e" width="500vw"><img src="https://github.com/Quake1011/StreetsRating/assets/58555031/db9ef3c4-e95a-4eb1-9c73-9050664db145" width="500vw"></center></pre>
 
 ## Settings
 The list itself is configured in the **streets/streets.sp** file, where a list of the necessary streets is prescribed for display in the menu.
